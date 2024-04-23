@@ -11,7 +11,8 @@
         "phone": "",
         "username": "tmedhurst",
         "image": "",
-        "description": "Brand New 40 Inch Tv"
+        "description": "Brand New 40 Inch Tv",
+        "price": "$35"
       },
       {
         "id": 2,
@@ -24,7 +25,8 @@
         "phone": "",
         "username": "thills",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Microwave Oven",
+        "price": "$35"
       },
       {
         "id": 3,
@@ -37,7 +39,8 @@
         "phone": "",
         "username": "mcummerata",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Blender",
+        "price": "$35"
       },
       {
         "id": 4,
@@ -50,7 +53,8 @@
         "phone": "",
         "username": "squigley",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Coffee Maker",
+        "price": "$35"
       },
       {
         "id": 5,
@@ -63,7 +67,8 @@
         "phone": "",
         "username": "areichert",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Vacuum Cleaner",
+        "price": "$35"
       },
       {
         "id": 6,
@@ -76,7 +81,8 @@
         "phone": "",
         "username": "oabbott",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Toaster",
+        "price": "$35"
       },
       {
         "id": 7,
@@ -89,7 +95,8 @@
         "phone": "",
         "username": "emueller",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Couch",
+        "price": "$35"
       },
       {
         "id": 8,
@@ -102,7 +109,8 @@
         "phone": "",
         "username": "dcorkery",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Lamp",
+        "price": "$35"
       },
       {
         "id": 9,
@@ -115,7 +123,8 @@
         "phone": "",
         "username": "eprice",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Air Purifier",
+        "price": "$35"
       },
       {
         "id": 10,
@@ -128,7 +137,8 @@
         "phone": "",
         "username": "mjones",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Rice Cooker",
+        "price": "$35"
       },
       {
         "id": 11,
@@ -141,7 +151,8 @@
         "phone": "",
         "username": "arath",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Iron",
+        "price": "$35"
       },
       {
         "id": 12,
@@ -154,7 +165,8 @@
         "phone": "",
         "username": "tdouglas",
         "image": "",
-        "description": "Hello"
+        "description": "Brand New Whisk Set",
+        "price": "$35"
       }
     ],
     "limit": 12

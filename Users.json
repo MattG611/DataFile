@@ -2,6 +2,7 @@
     "users": [
       {
         "id": 1,
+        "title": "40 Inch TV",
         "firstName": "Terry",
         "lastName": "Medhurst",
         "age": 19,
@@ -9,10 +10,12 @@
         "email": "tmedhurst@umassd.edu",
         "phone": "",
         "username": "tmedhurst",
-        "image": ""
+        "image": "https://robohash.org/Terry.png?set=set4",
+        "description": "Hello"
       },
       {
         "id": 2,
+        "title": "40 Inch TV",
         "firstName": "Terrill",
         "lastName": "Hills",
         "age": 21,
@@ -20,10 +23,12 @@
         "email": "thills@umassd.edu",
         "phone": "",
         "username": "thills",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 3,
+        "title": "40 Inch TV",
         "firstName": "Miles",
         "lastName": "Cummerata",
         "age": 18,
@@ -31,10 +36,12 @@
         "email": "mcummerata@umassd.edu",
         "phone": "",
         "username": "mcummerata",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 4,
+        "title": "40 Inch TV",
         "firstName": "Sheldon",
         "lastName": "Quigley",
         "age": 22,
@@ -42,10 +49,12 @@
         "email": "squigley@umassd.edu",
         "phone": "",
         "username": "squigley",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 5,
+        "title": "40 Inch TV",
         "firstName": "Alison",
         "lastName": "Reichert",
         "age": 19,
@@ -53,10 +62,12 @@
         "email": "areichert@umassd.edu",
         "phone": "",
         "username": "areichert",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 6,
+        "title": "40 Inch TV",
         "firstName": "Oleta",
         "lastName": "Abbott",
         "age": 35,
@@ -64,10 +75,12 @@
         "email": "oabbott@umassd.edu",
         "phone": "",
         "username": "oabbott",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 7,
+        "title": "40 Inch TV",
         "firstName": "Ewell",
         "lastName": "Mueller",
         "age": 45,
@@ -75,10 +88,12 @@
         "email": "emueller@umassd.edu",
         "phone": "",
         "username": "emueller",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 8,
+        "title": "40 Inch TV",
         "firstName": "Demetrius",
         "lastName": "Corkery",
         "age": 23,
@@ -86,10 +101,12 @@
         "email": "dcorkery@umassd.edu",
         "phone": "",
         "username": "dcorkery",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 9,
+        "title": "40 Inch TV",
         "firstName": "Eleanora",
         "lastName": "Price",
         "age": 19,
@@ -97,10 +114,12 @@
         "email": "eprice@umassd.edu",
         "phone": "",
         "username": "eprice",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 10,
+        "title": "40 Inch TV",
         "firstName": "Marcel",
         "lastName": "Jones",
         "age": 24,
@@ -108,10 +127,12 @@
         "email": "mjones@umassd.edu",
         "phone": "",
         "username": "mjones",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 11,
+        "title": "40 Inch TV",
         "firstName": "Assunta",
         "lastName": "Rath",
         "age": 42,
@@ -119,10 +140,12 @@
         "email": "arath@umassd.edu",
         "phone": "",
         "username": "arath",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       },
       {
         "id": 12,
+        "title": "40 Inch TV",
         "firstName": "Trace",
         "lastName": "Douglas",
         "age": 20,
@@ -130,7 +153,8 @@
         "email": "tdouglas@umassd.edu",
         "phone": "",
         "username": "tdouglas",
-        "image": ""
+        "image": "",
+        "description": "Hello"
       }
     ],
     "limit": 12

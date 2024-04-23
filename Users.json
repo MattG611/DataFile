@@ -10,12 +10,12 @@
         "email": "tmedhurst@umassd.edu",
         "phone": "",
         "username": "tmedhurst",
-        "image": "https://www.istockphoto.com/photo/black-led-tv-television-screen-blank-isolated-gm1395191574-450395016?utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftelevision&utm_medium=affiliate&utm_source=unsplash&utm_term=television%3A%3A%3A",
+        "image": "",
         "description": "Brand New 40 Inch Tv"
       },
       {
         "id": 2,
-        "title": "",
+        "title": "Microwave Oven",
         "firstName": "Terrill",
         "lastName": "Hills",
         "age": 21,
@@ -28,7 +28,7 @@
       },
       {
         "id": 3,
-        "title": "40 Inch TV",
+        "title": "Blender",
         "firstName": "Miles",
         "lastName": "Cummerata",
         "age": 18,
@@ -41,7 +41,7 @@
       },
       {
         "id": 4,
-        "title": "40 Inch TV",
+        "title": "Coffee Maker",
         "firstName": "Sheldon",
         "lastName": "Quigley",
         "age": 22,
@@ -54,7 +54,7 @@
       },
       {
         "id": 5,
-        "title": "40 Inch TV",
+        "title": "Vacuum Cleaner",
         "firstName": "Alison",
         "lastName": "Reichert",
         "age": 19,
@@ -67,7 +67,7 @@
       },
       {
         "id": 6,
-        "title": "40 Inch TV",
+        "title": "Toaster",
         "firstName": "Oleta",
         "lastName": "Abbott",
         "age": 35,
@@ -80,7 +80,7 @@
       },
       {
         "id": 7,
-        "title": "40 Inch TV",
+        "title": "Couch",
         "firstName": "Ewell",
         "lastName": "Mueller",
         "age": 45,
@@ -93,7 +93,7 @@
       },
       {
         "id": 8,
-        "title": "40 Inch TV",
+        "title": "Lamp",
         "firstName": "Demetrius",
         "lastName": "Corkery",
         "age": 23,
@@ -106,7 +106,7 @@
       },
       {
         "id": 9,
-        "title": "40 Inch TV",
+        "title": "Air Purifier",
         "firstName": "Eleanora",
         "lastName": "Price",
         "age": 19,
@@ -119,7 +119,7 @@
       },
       {
         "id": 10,
-        "title": "40 Inch TV",
+        "title": "Rice Cooker",
         "firstName": "Marcel",
         "lastName": "Jones",
         "age": 24,
@@ -132,7 +132,7 @@
       },
       {
         "id": 11,
-        "title": "40 Inch TV",
+        "title": "Iron",
         "firstName": "Assunta",
         "lastName": "Rath",
         "age": 42,
@@ -145,7 +145,7 @@
       },
       {
         "id": 12,
-        "title": "40 Inch TV",
+        "title": "Whisk Set",
         "firstName": "Trace",
         "lastName": "Douglas",
         "age": 20,

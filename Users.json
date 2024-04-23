@@ -1,0 +1,137 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstName": "Terry",
+        "lastName": "Medhurst",
+        "age": 19,
+        "gender": "male",
+        "email": "tmedhurst@umassd.edu",
+        "phone": "",
+        "username": "tmedhurst",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "firstName": "Terrill",
+        "lastName": "Hills",
+        "age": 21,
+        "gender": "male",
+        "email": "thills@umassd.edu",
+        "phone": "",
+        "username": "thills",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "firstName": "Miles",
+        "lastName": "Cummerata",
+        "age": 18,
+        "gender": "male",
+        "email": "mcummerata@umassd.edu",
+        "phone": "",
+        "username": "mcummerata",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "firstName": "Sheldon",
+        "lastName": "Quigley",
+        "age": 22,
+        "gender": "male",
+        "email": "squigley@umassd.edu",
+        "phone": "",
+        "username": "squigley",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "firstName": "Alison",
+        "lastName": "Reichert",
+        "age": 19,
+        "gender": "female",
+        "email": "areichert@umassd.edu",
+        "phone": "",
+        "username": "areichert",
+        "image": ""
+      },
+      {
+        "id": 6,
+        "firstName": "Oleta",
+        "lastName": "Abbott",
+        "age": 35,
+        "gender": "male",
+        "email": "oabbott@umassd.edu",
+        "phone": "",
+        "username": "oabbott",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "firstName": "Ewell",
+        "lastName": "Mueller",
+        "age": 45,
+        "gender": "male",
+        "email": "emueller@umassd.edu",
+        "phone": "",
+        "username": "emueller",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "firstName": "Demetrius",
+        "lastName": "Corkery",
+        "age": 23,
+        "gender": "male",
+        "email": "dcorkery@umassd.edu",
+        "phone": "",
+        "username": "dcorkery",
+        "image": ""
+      },
+      {
+        "id": 9,
+        "firstName": "Eleanora",
+        "lastName": "Price",
+        "age": 19,
+        "gender": "female",
+        "email": "eprice@umassd.edu",
+        "phone": "",
+        "username": "eprice",
+        "image": ""
+      },
+      {
+        "id": 10,
+        "firstName": "Marcel",
+        "lastName": "Jones",
+        "age": 24,
+        "gender": "male",
+        "email": "mjones@umassd.edu",
+        "phone": "",
+        "username": "mjones",
+        "image": ""
+      },
+      {
+        "id": 11,
+        "firstName": "Assunta",
+        "lastName": "Rath",
+        "age": 42,
+        "gender": "female",
+        "email": "arath@umassd.edu",
+        "phone": "",
+        "username": "arath",
+        "image": ""
+      },
+      {
+        "id": 12,
+        "firstName": "Trace",
+        "lastName": "Douglas",
+        "age": 20,
+        "gender": "male",
+        "email": "tdouglas@umassd.edu",
+        "phone": "",
+        "username": "tdouglas",
+        "image": ""
+      }
+    ],
+    "limit": 12
+  }

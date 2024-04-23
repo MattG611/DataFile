@@ -22,7 +22,7 @@
         "gender": "male",
         "email": "thills@umassd.edu",
         "username": "thills",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Microwave Oven",
         "price": "$35"
       },
@@ -35,7 +35,7 @@
         "gender": "male",
         "email": "mcummerata@umassd.edu",
         "username": "mcummerata",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Blender",
         "price": "$35"
       },
@@ -48,7 +48,7 @@
         "gender": "male",
         "email": "squigley@umassd.edu",
         "username": "squigley",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Coffee Maker",
         "price": "$35"
       },
@@ -61,7 +61,7 @@
         "gender": "female",
         "email": "areichert@umassd.edu",
         "username": "areichert",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Vacuum Cleaner",
         "price": "$35"
       },
@@ -74,7 +74,7 @@
         "gender": "male",
         "email": "oabbott@umassd.edu",
         "username": "oabbott",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Toaster",
         "price": "$35"
       },
@@ -87,7 +87,7 @@
         "gender": "male",
         "email": "emueller@umassd.edu",
         "username": "emueller",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Couch",
         "price": "$35"
       },
@@ -100,7 +100,7 @@
         "gender": "male",
         "email": "dcorkery@umassd.edu",
         "username": "dcorkery",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Lamp",
         "price": "$35"
       },
@@ -113,7 +113,7 @@
         "gender": "female",
         "email": "eprice@umassd.edu",
         "username": "eprice",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Air Purifier",
         "price": "$35"
       },
@@ -126,7 +126,7 @@
         "gender": "male",
         "email": "mjones@umassd.edu",
         "username": "mjones",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Rice Cooker",
         "price": "$35"
       },
@@ -139,7 +139,7 @@
         "gender": "female",
         "email": "arath@umassd.edu",
         "username": "arath",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Iron",
         "price": "$35"
       },
@@ -152,7 +152,7 @@
         "gender": "male",
         "email": "tdouglas@umassd.edu",
         "username": "tdouglas",
-        "image": "",
+        "image": "./ItemImages/40InchTv.jpeg",
         "description": "Brand New Whisk Set",
         "price": "$35"
       }

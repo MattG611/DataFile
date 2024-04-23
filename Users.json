@@ -9,7 +9,7 @@
         "gender": "male",
         "email": "tmedhurst@umassd.edu",
         "username": "tmedhurst",
-        "image": "./ItemImages/40InchTv.jpeg",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/40InchTv.jpeg",
         "description": "Brand New 40 Inch Tv",
         "price": "$35"
       },

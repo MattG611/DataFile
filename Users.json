@@ -15,16 +15,16 @@
       },
       {
         "id": 2,
-        "title": "Microwave Oven",
+        "title": "GE Smart Countertop Microwave Oven",
         "firstName": "Terrill",
         "lastName": "Hills",
         "age": 21,
         "gender": "male",
         "email": "thills@umassd.edu",
         "username": "thills",
-        "image": "./ItemImages/40InchTv.jpeg",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
         "description": "Brand New Microwave Oven",
-        "price": "$35"
+        "price": "$85"
       },
       {
         "id": 3,

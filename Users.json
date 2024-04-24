@@ -35,7 +35,7 @@
         "gender": "male",
         "email": "mcummerata@umassd.edu",
         "username": "mcummerata",
-        "image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "image": "",
         "description": "Brand New Blender!",
         "price": "$40"
       },
@@ -48,7 +48,7 @@
         "gender": "male",
         "email": "squigley@umassd.edu",
         "username": "squigley",
-        "image": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
         "description": "Small New Coffee Maker!",
         "price": "$30"
       },

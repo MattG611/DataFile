@@ -48,9 +48,9 @@
         "gender": "male",
         "email": "squigley@umassd.edu",
         "username": "squigley",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
-        "description": "Brand New Coffee Maker",
-        "price": "$35"
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "description": "Small New Coffee Maker!",
+        "price": "$30"
       },
       {
         "id": 5,

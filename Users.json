@@ -9,7 +9,7 @@
         "gender": "male",
         "email": "tmedhurst@umassd.edu",
         "username": "tmedhurst",
-        "image": "https://fastly.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/40InchTv.jpeg",
         "description": "Slightly used 40 Inch Samsung Tv",
         "price": "$100"
       },
@@ -22,7 +22,7 @@
         "gender": "male",
         "email": "thills@umassd.edu",
         "username": "thills",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
         "description": "New Microwave Oven",
         "price": "$85"
       },
@@ -35,7 +35,7 @@
         "gender": "male",
         "email": "mcummerata@umassd.edu",
         "username": "mcummerata",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/640px-ElectricBlender.jpeg",
         "description": "Brand New Blender!",
         "price": "$40"
       },
@@ -48,7 +48,7 @@
         "gender": "male",
         "email": "squigley@umassd.edu",
         "username": "squigley",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
         "description": "Small New Coffee Maker!",
         "price": "$30"
       },

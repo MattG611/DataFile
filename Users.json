@@ -35,7 +35,7 @@
         "gender": "male",
         "email": "mcummerata@umassd.edu",
         "username": "mcummerata",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/640px-ElectricBlender.jpeg",
         "description": "Brand New Blender!",
         "price": "$40"
       },

@@ -9,7 +9,7 @@
         "gender": "male",
         "email": "tmedhurst@umassd.edu",
         "username": "tmedhurst",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/40InchTv.jpeg",
+        "image": "",
         "description": "Slightly used 40 Inch Samsung Tv",
         "price": "$100"
       },
@@ -22,7 +22,7 @@
         "gender": "male",
         "email": "thills@umassd.edu",
         "username": "thills",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "New Microwave Oven",
         "price": "$85"
       },
@@ -35,7 +35,7 @@
         "gender": "male",
         "email": "mcummerata@umassd.edu",
         "username": "mcummerata",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/640px-ElectricBlender.jpeg",
+        "image": "",
         "description": "Brand New Blender!",
         "price": "$40"
       },
@@ -48,7 +48,7 @@
         "gender": "male",
         "email": "squigley@umassd.edu",
         "username": "squigley",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Small New Coffee Maker!",
         "price": "$30"
       },
@@ -61,7 +61,7 @@
         "gender": "female",
         "email": "areichert@umassd.edu",
         "username": "areichert",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Vacuum Cleaner",
         "price": "$35"
       },
@@ -74,7 +74,7 @@
         "gender": "male",
         "email": "oabbott@umassd.edu",
         "username": "oabbott",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Toaster",
         "price": "$35"
       },
@@ -87,7 +87,7 @@
         "gender": "male",
         "email": "emueller@umassd.edu",
         "username": "emueller",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Couch",
         "price": "$35"
       },
@@ -100,7 +100,7 @@
         "gender": "male",
         "email": "dcorkery@umassd.edu",
         "username": "dcorkery",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Lamp",
         "price": "$35"
       },
@@ -113,7 +113,7 @@
         "gender": "female",
         "email": "eprice@umassd.edu",
         "username": "eprice",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Air Purifier",
         "price": "$35"
       },
@@ -126,7 +126,7 @@
         "gender": "male",
         "email": "mjones@umassd.edu",
         "username": "mjones",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Rice Cooker",
         "price": "$35"
       },
@@ -139,7 +139,7 @@
         "gender": "female",
         "email": "arath@umassd.edu",
         "username": "arath",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Iron",
         "price": "$35"
       },
@@ -152,7 +152,7 @@
         "gender": "male",
         "email": "tdouglas@umassd.edu",
         "username": "tdouglas",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Microwave.png",
+        "image": "",
         "description": "Brand New Whisk Set",
         "price": "$35"
       }

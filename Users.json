@@ -9,39 +9,39 @@
         "gender": "male",
         "email": "tmedhurst@umassd.edu",
         "username": "tmedhurst",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Slightly used 40 Inch Samsung Tv",
+        "image": "",
+        "description": "Slightly used 40 Inch Samsung Tv.",
         "price": "$100"
       },
       {
         "id": 2,
-        "title": "GE Smart Countertop Microwave Oven",
+        "title": "New Microwave Oven",
         "firstName": "Terrill",
         "lastName": "Hills",
         "age": 21,
         "gender": "male",
         "email": "thills@umassd.edu",
         "username": "thills",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "New Microwave Oven",
-        "price": "$85"
+        "image": "",
+        "description": "New microwave oven, never taken out of the box!",
+        "price": "$50"
       },
       {
         "id": 3,
-        "title": "Blender",
+        "title": "All Purpose Blender",
         "firstName": "Miles",
         "lastName": "Cummerata",
         "age": 18,
         "gender": "male",
         "email": "mcummerata@umassd.edu",
         "username": "mcummerata",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Blender!",
-        "price": "$40"
+        "image": "",
+        "description": "Brand new blender, can be used for anything.",
+        "price": "$30"
       },
       {
         "id": 4,
-        "title": "Coffee Maker",
+        "title": "Keurig Coffee Maker",
         "firstName": "Sheldon",
         "lastName": "Quigley",
         "age": 22,
@@ -49,12 +49,12 @@
         "email": "squigley@umassd.edu",
         "username": "squigley",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Small New Coffee Maker!",
-        "price": "$30"
+        "description": "New keurig coffee maker!",
+        "price": "$28"
       },
       {
         "id": 5,
-        "title": "Vacuum Cleaner",
+        "title": "Light Vacuum Cleaner",
         "firstName": "Alison",
         "lastName": "Reichert",
         "age": 19,
@@ -62,12 +62,12 @@
         "email": "areichert@umassd.edu",
         "username": "areichert",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Vacuum Cleaner",
-        "price": "$35"
+        "description": "Slightly used vacuum cleaner.",
+        "price": "$90"
       },
       {
         "id": 6,
-        "title": "Toaster",
+        "title": "2 Slice Toaster",
         "firstName": "Oleta",
         "lastName": "Abbott",
         "age": 35,
@@ -75,12 +75,12 @@
         "email": "oabbott@umassd.edu",
         "username": "oabbott",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Toaster",
+        "description": "2 slice toaster, quick and easy breakfast :)",
         "price": "$35"
       },
       {
         "id": 7,
-        "title": "Couch",
+        "title": "Grey Couch",
         "firstName": "Ewell",
         "lastName": "Mueller",
         "age": 45,
@@ -88,12 +88,12 @@
         "email": "emueller@umassd.edu",
         "username": "emueller",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Couch",
-        "price": "$35"
+        "description": "Slightly used grey couch, still in good condition.",
+        "price": "$250"
       },
       {
         "id": 8,
-        "title": "Lamp",
+        "title": "New Lamp",
         "firstName": "Demetrius",
         "lastName": "Corkery",
         "age": 23,
@@ -101,12 +101,12 @@
         "email": "dcorkery@umassd.edu",
         "username": "dcorkery",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Lamp",
-        "price": "$35"
+        "description": "Perfect lamp for your dorm room!",
+        "price": "$17"
       },
       {
         "id": 9,
-        "title": "Air Purifier",
+        "title": "Brand New Air Purifier",
         "firstName": "Eleanora",
         "lastName": "Price",
         "age": 19,
@@ -115,11 +115,11 @@
         "username": "eprice",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
         "description": "Brand New Air Purifier",
-        "price": "$35"
+        "price": "$75"
       },
       {
         "id": 10,
-        "title": "Rice Cooker",
+        "title": "Used Rice Cooker",
         "firstName": "Marcel",
         "lastName": "Jones",
         "age": 24,
@@ -127,12 +127,12 @@
         "email": "mjones@umassd.edu",
         "username": "mjones",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Rice Cooker",
-        "price": "$35"
+        "description": "Used rice cooker, perfect for cooking rice.",
+        "price": "$50"
       },
       {
         "id": 11,
-        "title": "Iron",
+        "title": "Used Steam Iron",
         "firstName": "Assunta",
         "lastName": "Rath",
         "age": 42,
@@ -140,12 +140,12 @@
         "email": "arath@umassd.edu",
         "username": "arath",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Iron",
-        "price": "$35"
+        "description": "Iron has only been used once!",
+        "price": "$20"
       },
       {
         "id": 12,
-        "title": "Whisk Set",
+        "title": "New 2 Piece Whisk Set",
         "firstName": "Trace",
         "lastName": "Douglas",
         "age": 20,
@@ -153,8 +153,8 @@
         "email": "tdouglas@umassd.edu",
         "username": "tdouglas",
         "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
-        "description": "Brand New Whisk Set",
-        "price": "$35"
+        "description": "Brand new 2 piece whisk set!!",
+        "price": "$18"
       }
     ],
     "limit": 12

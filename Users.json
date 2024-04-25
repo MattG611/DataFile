@@ -48,7 +48,7 @@
         "gender": "male",
         "email": "squigley@umassd.edu",
         "username": "squigley",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "New keurig coffee maker!",
         "price": "$28"
       },
@@ -61,7 +61,7 @@
         "gender": "female",
         "email": "areichert@umassd.edu",
         "username": "areichert",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Slightly used vacuum cleaner.",
         "price": "$90"
       },
@@ -74,7 +74,7 @@
         "gender": "male",
         "email": "oabbott@umassd.edu",
         "username": "oabbott",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "2 slice toaster, quick and easy breakfast :)",
         "price": "$35"
       },
@@ -87,7 +87,7 @@
         "gender": "male",
         "email": "emueller@umassd.edu",
         "username": "emueller",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Slightly used grey couch, still in good condition.",
         "price": "$250"
       },
@@ -100,7 +100,7 @@
         "gender": "male",
         "email": "dcorkery@umassd.edu",
         "username": "dcorkery",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Perfect lamp for your dorm room!",
         "price": "$17"
       },
@@ -113,7 +113,7 @@
         "gender": "female",
         "email": "eprice@umassd.edu",
         "username": "eprice",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Brand New Air Purifier",
         "price": "$75"
       },
@@ -126,7 +126,7 @@
         "gender": "male",
         "email": "mjones@umassd.edu",
         "username": "mjones",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Used rice cooker, perfect for cooking rice.",
         "price": "$50"
       },
@@ -139,7 +139,7 @@
         "gender": "female",
         "email": "arath@umassd.edu",
         "username": "arath",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Iron has only been used once!",
         "price": "$20"
       },
@@ -152,7 +152,7 @@
         "gender": "male",
         "email": "tdouglas@umassd.edu",
         "username": "tdouglas",
-        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/coffeemaker.jpeg",
+        "image": "",
         "description": "Brand new 2 piece whisk set!!",
         "price": "$18"
       }

@@ -61,7 +61,7 @@
         "gender": "female",
         "email": "areichert@umassd.edu",
         "username": "areichert",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/VacuumCleaner.jpeg",
         "description": "Slightly used vacuum cleaner.",
         "price": "$90"
       },
@@ -74,7 +74,7 @@
         "gender": "male",
         "email": "oabbott@umassd.edu",
         "username": "oabbott",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Toaster.jpeg",
         "description": "2 slice toaster, quick and easy breakfast :)",
         "price": "$35"
       },
@@ -87,7 +87,7 @@
         "gender": "male",
         "email": "emueller@umassd.edu",
         "username": "emueller",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Couch.jpeg",
         "description": "Slightly used grey couch, still in good condition.",
         "price": "$250"
       },
@@ -100,7 +100,7 @@
         "gender": "male",
         "email": "dcorkery@umassd.edu",
         "username": "dcorkery",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Lamp.webp",
         "description": "Perfect lamp for your dorm room!",
         "price": "$17"
       },
@@ -113,7 +113,7 @@
         "gender": "female",
         "email": "eprice@umassd.edu",
         "username": "eprice",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Air.jpeg",
         "description": "Brand New Air Purifier",
         "price": "$75"
       },
@@ -126,7 +126,7 @@
         "gender": "male",
         "email": "mjones@umassd.edu",
         "username": "mjones",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/RiceCooker.jpeg",
         "description": "Used rice cooker, perfect for cooking rice.",
         "price": "$50"
       },
@@ -139,20 +139,20 @@
         "gender": "female",
         "email": "arath@umassd.edu",
         "username": "arath",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/Iron.jpeg",
         "description": "Iron has only been used once!",
         "price": "$20"
       },
       {
         "id": 12,
-        "title": "New 2 Piece Whisk Set",
+        "title": "New 3 Piece Whisk Set",
         "firstName": "Trace",
         "lastName": "Douglas",
         "age": 20,
         "gender": "male",
         "email": "tdouglas@umassd.edu",
         "username": "tdouglas",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MattG611/DataFile/main/ItemImages/WhiskSet.jpeg",
         "description": "Brand new 2 piece whisk set!!",
         "price": "$18"
       }
